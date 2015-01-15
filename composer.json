@@ -1,0 +1,17 @@
+{
+    "name": "crowcpga/example",
+    "description": "Example",
+    "authors": [
+        {
+            "name": "Carlos González Aedo",
+            "email": "crowcpga@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=5.3.0"
+    },
+    "autoload" : {
+        "classmap" :  ["src/"]
+    }
+}
